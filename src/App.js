@@ -10,6 +10,9 @@ function App() {
 
           Learn Amplify
           </h1>
+          <h3>
+            Deploiment automatique des modif du code
+          </h3>
       </header>
     </div>
   );
